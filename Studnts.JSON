@@ -390,6 +390,20 @@
         "state": true,
         "registerDate": "02/08/1445H"
       }
-    }
+    },
+    {
+        "413888": {
+          "studintName": "أبو_بكر محمد رحيم",
+          "studintId": "413888",
+          "studintPhone": "0572265944",
+          "studintAge": "20/11/1425",
+          "currentSurah": "الذاريات",
+          "parentId": "513888",
+          "parentPhone": "0510251070",
+          "teatcher": "عبد الله",
+          "state": true,
+          "registerDate": "02/08/1445H"
+        }
+      }
 
 ]
