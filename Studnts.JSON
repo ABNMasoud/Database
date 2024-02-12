@@ -356,8 +356,36 @@
         "studintPhone": "0542744562",
         "studintAge": "",
         "currentSurah": "ق",
-        "parentId": "475125",
+        "parentId": "286076",
         "parentPhone": "0599475125",
+        "teatcher": "عبد الله",
+        "state": true,
+        "registerDate": "02/08/1445H"
+      }
+    },
+    {
+      "603676": {
+        "studintName": "نايف عوض محمد المرفدي",
+        "studintId": "603676",
+        "studintPhone": "",
+        "studintAge": "19/02/1434",
+        "currentSurah": "",
+        "parentId": "295209",
+        "parentPhone": "0532111446",
+        "teatcher": "عبد الله",
+        "state": true,
+        "registerDate": "02/08/1445H"
+      }
+    },
+    {
+      "326555": {
+        "studintName": "محمد سعيد الرحمن عبد الرحيم",
+        "studintId": "326555",
+        "studintPhone": "0576190364",
+        "studintAge": "29/07/1433",
+        "currentSurah": "المرسلات",
+        "parentId": "190062",
+        "parentPhone": "0555081575",
         "teatcher": "عبد الله",
         "state": true,
         "registerDate": "02/08/1445H"
