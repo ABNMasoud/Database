@@ -404,6 +404,20 @@
           "state": true,
           "registerDate": "02/08/1445H"
         }
+      },
+      {
+      "501830": {
+        "studintName": "حسن اسامه صباغ",
+        "studintId": "501830",
+        "studintPhone": "0555015321",
+        "studintAge": "27",
+        "currentSurah": "البقرة",
+        "parentId": "0000000000",
+        "parentPhone": "0000000000",
+        "teatcher": "عبد الله",
+        "state": true,
+        "registerDate": "04/08/1445H"
       }
+    }
 
 ]
