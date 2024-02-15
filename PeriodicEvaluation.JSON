@@ -2792,7 +2792,7 @@
               "hesitatedsRev": 0,
               "misteaksRev": 0,
               "totalRate": "10",
-              "AttendanceState": "4",
+              "AttendanceState": "5",
               "behaviorArray": []
             }
           },
@@ -2820,7 +2820,7 @@
               "hesitatedsRev": 0,
               "misteaksRev": 0,
               "totalRate": "10",
-              "AttendanceState": "4",
+              "AttendanceState": "5",
               "behaviorArray": []
             }
           },
