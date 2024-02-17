@@ -3402,7 +3402,7 @@
               "107544": {
                 "studintname": "عبد الرحمن عبد الكريم الأنصاري",
                 "teatcher": "عصام",
-                "memoState": true,
+                "memoState": false,
                 "memoSurah": "",
                 "memoSurahFrom": "",
                 "memoSurahTo": "",
@@ -3682,7 +3682,7 @@
               "433053": {
                 "studintname": "محمد عبد الله باداود",
                 "teatcher": "عصام",
-                "memoState": true,
+                "memoState": false,
                 "memoSurah": "",
                 "memoSurahFrom": "",
                 "memoSurahTo": "",
