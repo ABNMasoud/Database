@@ -1232,7 +1232,6 @@
                 "AttendanceState": 0,
                 "behaviorArray": [
                   "talk",
-                  "talk"
                 ]
               }
             },
