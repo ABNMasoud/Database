@@ -366,11 +366,11 @@
     {
       "603676": {
         "studintName": "نايف عوض محمد المرفدي",
-        "studintId": "603676",
+        "studintId": "295209",
         "studintPhone": "",
         "studintAge": "19/02/1434",
         "currentSurah": "",
-        "parentId": "295209",
+        "parentId": "603676",
         "parentPhone": "0532111446",
         "teatcher": "عبد الله",
         "state": true,
