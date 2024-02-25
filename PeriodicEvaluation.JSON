@@ -8805,8 +8805,8 @@
           "reviewListener2": "",
           "reviewRate": 10,
           "hesitatedsRev": 0,
-          "misteaksRev": 0,
-          "totalRate": 10,
+          "misteaksRev": 4,
+          "totalRate": 6,
           "AttendanceState": 0,
           "behaviorArray": []
         }
