@@ -9288,7 +9288,7 @@
     "daily": [
       {
         "413888": {
-          "studintname": "أبو بكر محمد رحيم",
+          "studintname": "ابو بكر محمد رحيم",
           "teatcher": "عبد الله",
           "memoState": true,
           "rememo": false,
@@ -9352,7 +9352,7 @@
       },
       {
         "757015": {
-          "studintname": "إبراهيم اسامة البشير",
+          "studintname": "ابراهيم اسامة البشير",
           "teatcher": "عبد الله",
           "memoState": true,
           "rememo": false,
@@ -9385,21 +9385,21 @@
       },
       {
         "918514": {
-          "studintname": "إبراهيم حسن البركاتي",
+          "studintname": "ابراهيم حسن البركاتي",
           "teatcher": "عبد الله",
           "memoState": true,
           "rememo": false,
           "memoFirstTime": true,
-          "memoSurah": "",
-          "memoSurahFrom": "",
-          "memoSurahTo": "",
+          "memoSurah": "البلد",
+          "memoSurahFrom": "1",
+          "memoSurahTo": "20",
           "memoSurahLines": "",
           "memoTime": "",
           "hesitateds": 0,
           "misteaks": 0,
           "memoRate": "",
           "memoClass": "-",
-          "reviewState": true,
+          "reviewState": false,
           "rereview": false,
           "reviewFirstTime": true,
           "reviewSurahFrom": "",
@@ -9410,7 +9410,7 @@
           "hesitatedsRev": 0,
           "misteaksRev": 0,
           "totalRate": 10,
-          "AttendanceState": 2,
+          "AttendanceState": "0",
           "behaviorArray": []
         }
       },
@@ -9686,7 +9686,7 @@
           "reviewSurahFrom": "ص",
           "reviewSurahTo": "",
           "reviewListener1": "ناصر منصور الشريف",
-          "reviewListener2": "إبراهيم اسامة البشير",
+          "reviewListener2": "ابراهيم اسامة البشير",
           "reviewRate": 10,
           "hesitatedsRev": 0,
           "misteaksRev": 0,
@@ -10152,7 +10152,7 @@
           "reviewFirstTime": true,
           "reviewSurahFrom": "الحديد",
           "reviewSurahTo": "المجادلة",
-          "reviewListener1": "إبراهيم اسامة البشير",
+          "reviewListener1": "ابراهيم اسامة البشير",
           "reviewListener2": "طلحة عبيد الله أحمد",
           "reviewRate": 10,
           "hesitatedsRev": 0,
